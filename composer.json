@@ -1,0 +1,22 @@
+{
+    "name": "tecnovice/dimplespay",
+    "description": "A PHP library for interacting with the DimplesPay API.",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanley Enow Lekunze",
+            "email": "hguruman@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+      "DimplesPay\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
