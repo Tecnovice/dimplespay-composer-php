@@ -2,7 +2,6 @@
     "name": "tecnovice/dimplespay",
     "description": "A PHP library for interacting with the DimplesPay API.",
     "type": "library",
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
